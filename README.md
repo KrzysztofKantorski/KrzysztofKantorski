@@ -1,6 +1,6 @@
 ### Hi there, I'm Krzysztof! 👋
 
-I'm a 2nd-year Computer Science student at the Silesian University of Technology, currently based in the Silesian metropolitan area (Katowice / Gliwice).
+I'm a 3nd-year Computer Science student at the Silesian University of Technology, currently based in the Silesian metropolitan area (Katowice / Gliwice).
 
 ### Skills
 
